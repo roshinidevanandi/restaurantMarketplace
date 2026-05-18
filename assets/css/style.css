@@ -2245,19 +2245,3 @@ footer .container { padding: 80px 0 32px; }
     -webkit-mask-image: none; mask-image: none;
   }
 }
-
-/* =========================================
-   FINAL MOBILE SAFETY FIX
-========================================= */
-
-@media(max-width:768px){
-
-  body{
-    overflow-x:hidden;
-  }
-
-  *{
-    max-width:100%;
-  }
-
-}
